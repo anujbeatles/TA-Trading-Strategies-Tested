@@ -1,4 +1,7 @@
 # TA-Trading-Strategies-Tested
+
+MAIN FILE: PTP_Signals.ipynb
+
 Several trading strategies are programmed and then statistically backtested, through Monte Carlo and Bootstrap simulation methods.
 
 Market Timing Portfolio Performance using Technical Indicators RSI, MACD and TD DeMark indicators.
