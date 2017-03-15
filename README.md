@@ -1,6 +1,6 @@
 # TA-Trading-Strategies-Tested
 
-MAIN FILE: PTP_Signals.ipynb
+<b> <u> MAIN FILE: PTP_Signals.ipynb </b> </u>
 
 Several trading strategies are programmed and then statistically backtested, through Monte Carlo and Bootstrap simulation methods.
 
